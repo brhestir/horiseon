@@ -25,9 +25,6 @@ body {
     font-style: normal;
 }
 
-/* Apply same styling to multiple selectors by separating selectors with a comma.  (Comma-separated list-of-selectors)
- * https://stackoverflow.com/questions/13973833/how-to-set-one-css-rule-for-two-tags
-*/
 .header header,
 .header nav {
     padding-top: 15px;
