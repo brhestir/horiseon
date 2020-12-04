@@ -15,7 +15,6 @@ View the site at [Horiseon](https://brhestir.github.io/horiseon/)
 
 ## Credits
 - Refactored from gt-atl-fsf-ft-11-2020-u-c
-- [JPEG optimizer](https://github.com/danielgtaylor/jpeg-archive)
 
 ## Licence
 MIT
